@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+/* V2 theme base */
+:root {
+	font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+	color-scheme: dark;
+	/* Design tokens (HSL) */
+	--background: hsl(225 25% 5%);
+	--foreground: hsl(210 40% 95%);
+	--card: hsl(225 20% 8%);
+	--primary: hsl(185 90% 50%);
+	--primary-foreground: hsl(225 25% 5%);
+	--secondary: hsl(225 15% 15%);
+	--secondary-foreground: hsl(210 40% 90%);
+	--muted: hsl(225 15% 12%);
+	--muted-foreground: hsl(215 15% 55%);
+	--accent: hsl(35 95% 55%);
+	--accent-foreground: hsl(225 25% 5%);
+	--destructive: hsl(0 84% 60%);
+	--border: hsl(225 15% 15%);
+	--ring: hsl(185 90% 50%);
+	--gradient-start: hsl(185 90% 50%);
+	--gradient-end: hsl(260 85% 60%);
+	--glow-primary: hsl(185 90% 50%);
+	--glow-accent: hsl(35 95% 55%);
+	--surface-glass: hsl(225 20% 10%);
+	--surface-elevated: hsl(225 18% 12%);
+	--text-dim: hsl(215 15% 45%);
+	--radius: 0.75rem;
+  }
+
+html, body, #root {
+	height: 100%;
+  }
+
+a {
+	text-underline-offset: 3px;
+}
+
+/* Remove generic hover borders across the site; rely on elevation and color only */
+.card-flat {
+	@apply rounded-2xl bg-[#0E1629] text-slate-300 shadow-[0_10px_30px_-15px_rgba(0,0,0,0.6)];
+  }
+
+/* Utilities from Design System */
+.glass { background-color: color-mix(in oklab, var(--card) 60%, transparent); backdrop-filter: blur(24px); border: 1px solid color-mix(in oklab, var(--border) 50%, transparent); }
+.glass-strong { background-color: color-mix(in oklab, var(--card) 80%, transparent); backdrop-filter: blur(36px); border: 1px solid color-mix(in oklab, var(--border) 60%, transparent); }
+.bg-gradient-primary { background-image: linear-gradient(135deg, var(--gradient-start), var(--gradient-end)); }
+.text-gradient { background-image: linear-gradient(135deg, var(--gradient-start), var(--gradient-end)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.text-gradient-accent { background-image: linear-gradient(135deg, var(--accent), var(--primary)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.glow-border { box-shadow: 0 0 20px -5px hsl(185 90% 50% / 0.15), inset 0 1px 0 hsl(185 90% 50% / 0.1); }
+.glow-border-accent { box-shadow: 0 0 20px -5px hsl(35 95% 55% / 0.2), inset 0 1px 0 hsl(35 95% 55% / 0.1); }
+.btn-glow { box-shadow: 0 0 20px -5px hsl(185 90% 50% / 0.4); }
+.btn-glow:hover { box-shadow: 0 0 30px -3px hsl(185 90% 50% / 0.6); }
+.btn-glow-accent { box-shadow: 0 0 20px -5px hsl(35 95% 55% / 0.4); }
+.btn-glow-accent:hover { box-shadow: 0 0 30px -3px hsl(35 95% 55% / 0.6); }
+.neural-line { height: 1px; background: linear-gradient(90deg, transparent, hsl(185 90% 50% / 0.35), transparent); }
+.tag-pill { border-radius: 9999px; padding: 0.25rem 0.75rem; font-size: 0.75rem; background: hsl(225 15% 15% / 0.8); color: var(--foreground); border: 1px solid hsl(225 15% 15%); }
+.stat-card { border-radius: 1rem; padding: 1.5rem; background: color-mix(in oklab, var(--surface-glass) 80%, transparent); border: 1px solid var(--border); box-shadow: 0 10px 30px -15px rgba(0,0,0,0.5); }
+.section-heading { font-size: clamp(1.875rem, 2.5vw, 2.25rem); font-weight: 700; letter-spacing: -0.02em; }
+.section-subtext { color: var(--text-dim); }
+
+/* Patterns */
+.bg-grid { background-image: linear-gradient(to right, hsl(225 15% 15% / 0.3) 1px, transparent 1px), linear-gradient(to bottom, hsl(225 15% 15% / 0.3) 1px, transparent 1px); background-size: 60px 60px; }
+.bg-dots { background-image: radial-gradient(hsl(225 15% 15% / 0.5) 1px, transparent 1px); background-size: 24px 24px; }
+
+/* Keyframes + Animation utilities (CSS fallbacks) */
+@keyframes fade-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes scale-in { from { opacity: 0; transform: scale(0.95); } to { opacity: 1; transform: scale(1); } }
+@keyframes float { 0% { transform: translateY(0); } 50% { transform: translateY(-20px); } 100% { transform: translateY(0); } }
+@keyframes pulse-glow { 0% { opacity: .4; transform: scale(1); } 50% { opacity: .8; transform: scale(1.05); } 100% { opacity: .4; transform: scale(1); } }
+.animate-fade-in { animation: fade-in .5s ease both; }
+.animate-scale-in { animation: scale-in .3s ease both; }
+.animate-float { animation: float 6s ease-in-out infinite; }
+.animate-pulse-glow { animation: pulse-glow 3s ease-in-out infinite; }

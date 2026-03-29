@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://your-domain.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.com/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.com/blog/ai-tools-for-students</loc>
+  </url>
+  <url>
+    <loc>https://your-domain.com/blog/best-ai-note-taking-tools-for-students</loc>
+  </url>
+  <url>
+    <loc>https://your-domain.com/blog/chatgpt-study-prompts</loc>
+  </url>
+  <url>
+    <loc>https://your-domain.com/blog/ai-reading-comprehension-tools</loc>
+  </url>
+  <url>
+    <loc>https://your-domain.com/blog/ai-essay-outline-generators</loc>
+  </url>
+  <url>
+    <loc>https://your-domain.com/blog/ai-student-email-assistant</loc>
+  </url>
+  <url>
+    <loc>https://your-domain.com/blog/ai-time-blocking-study-plan</loc>
+  </url>
+  <url>
+    <loc>https://your-domain.com/blog/ai-pdf-annotation-tools</loc>
+  </url>
+</urlset>
+

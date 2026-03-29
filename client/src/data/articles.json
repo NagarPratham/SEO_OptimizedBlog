@@ -1,0 +1,310 @@
+[
+	{
+		"slug": "ai-tools-for-students",
+		"title": "The Ultimate Guide to AI Tools for Students in 2026 (Free + Paid)",
+		"metaDescription": "Explore the best AI tools for students in 2026: note-taking, summarization, research, citations, math, and study planning. Free and paid options, side-by-side.",
+		"excerpt": "From notes to research and planning, this guide maps the tools that actually help students learn faster—ethically and effectively. Start here, then dive into focused reviews, workflows, and prompt libraries.",
+		"date": "2026-03-28",
+		"readingTime": 15,
+		"tags": ["guide", "students", "ai tools"],
+		"toc": [
+			{ "id": "note-taking", "text": "AI Note-Taking", "level": 2 },
+			{ "id": "summarizers", "text": "Summarizers", "level": 2 },
+			{ "id": "research", "text": "Research & Citations", "level": 2 },
+			{ "id": "math", "text": "Math Solvers", "level": 2 },
+			{ "id": "planning", "text": "Study Planning", "level": 2 }
+		],
+		"recommended": [
+			{ "title": "Notion AI (Student Discount)", "href": "https://notion.so", "note": "Notes + planning" },
+			{ "title": "Perplexity", "href": "https://perplexity.ai", "note": "Research assistant" }
+		],
+		"content": [
+			{ "type": "p", "text": "This pillar guide is your hub for all things AI + studying. It links into focused reviews and workflows so you can go deep on every topic. Our approach is practical: we prioritize reliability, clarity, and time savings for real student tasks—class notes, readings, research, practice problems, and exam prep. Every recommendation is paired with clear use cases, ethical guidelines, and alternatives if you’re on a tight budget." },
+			{ "type": "p", "text": "If you’re new: start by picking one tool per job. You don’t need five apps—one note system, one summarizer, one research assistant, and a math or language helper (if needed) will carry you. Keep your workflow simple and repeatable so you’re learning, not just clicking. Throughout this guide we’ll link to hands-on walkthroughs and prompt sets to get you to results faster." },
+			{ "type": "h2", "id": "note-taking", "text": "AI Note-Taking" },
+			{ "type": "p", "text": "Modern note apps use AI for transcription, summarization, and organization. If you attend lecture-heavy courses or discussion-based seminars, this category saves hours each week. Look for features like live or upload-based transcription, topic-aware summaries, evergreen notes (not just raw logs), and export quality. Bonus: spaced‑repetition or flashcard integrations help lock in learning." },
+			{ "type": "p", "text": "Recommended starting points: Notion AI for an all‑in‑one workspace; Obsidian with community plugins if you prefer local-first markdown; and Mem/Tana AI for auto‑organizing knowledge. For a deep comparison with workflows and pricing, see our review: Best AI Note‑Taking Tools for Students → /blog/best-ai-note-taking-tools-for-students" },
+			{ "type": "ul", "items": [
+				"Capture: record lectures or upload audio; attach slides/PDFs for context",
+				"Process: generate highlights, action items, and definitions for tricky terms",
+				"Recall: convert notes to flashcards; schedule spaced repetition"
+			] },
+			{ "type": "h2", "id": "summarizers", "text": "Summarizers" },
+			{ "type": "p", "text": "Summarizers turn dense textbooks and PDFs into readable bullet points and key insights. They’re especially useful for prereading before a lecture, quick refreshers before quizzes, and extracting citations or quotations. The best summarizers allow structured outputs: outline, key ideas, definitions, formulas, and question prompts for self‑testing." },
+			{ "type": "p", "text": "When summarizing, always skim the source first so you recognize scope and structure. Then prompt with constraints: 'summarize section 2.1–2.4 into 7 bullets, include 3 key terms with definitions, and 3 self‑test questions'. Compare against the source to avoid hallucinations and add page numbers when quoting." },
+			{ "type": "h2", "id": "research", "text": "Research & Citations" },
+			{ "type": "p", "text": "AI can help with topic discovery, outlining, finding related work, and generating references in APA/MLA—ethically. Think of AI as a research assistant that drafts starting points you will verify. Use a factual backbone tool like Perplexity or an academic search (Semantic Scholar, Elicit) to avoid unsupported claims. When you generate references, check that the paper exists, the author names match, and page ranges are accurate." },
+			{ "type": "ul", "items": [
+				"Topic ideation: generate 10 angles; pick 2 and draft 5‑point outlines",
+				"Evidence: ask for 5 recent sources with links and short summaries",
+				"Citations: export APA/MLA; store in Zotero/Notion for reuse"
+			] },
+			{ "type": "p", "text": "Go deeper with our workflow guide: AI Tools for Research Papers → /blog/ai-tools-for-students (this page) and our dedicated cluster articles on citations and literature reviews." },
+			{ "type": "h2", "id": "math", "text": "Math Solvers" },
+			{ "type": "p", "text": "Math solvers are best when they show steps and explain reasoning, not just provide answers. The right way to use them is to compare their steps to your own, identify where you got stuck, and then rework a fresh problem from scratch. For proof‑based courses, use 'hint' mode rather than 'full solution' so you’re still doing the thinking." },
+			{ "type": "h2", "id": "planning", "text": "Study Planning" },
+			{ "type": "p", "text": "A study plan turns random effort into a predictable routine. AI can draft schedules from your syllabus, break assignments into tasks, and surface weekly priorities. Tie this into your notes and flashcards so your plan is connected to the work that earns grades." },
+			{ "type": "ul", "items": ["Semester planners", "Task breakdowns", "Habit tracking templates"] },
+			{ "type": "p", "text": "Ready to pick your stack? Start with notes and summarization, then add a research assistant and a math or language tool as needed. Explore our prompt library for studying to practice active recall and reduce time‑wasting tinkering: 75 ChatGPT Study Prompts → /blog/chatgpt-study-prompts" },
+			{ "type": "cta", "title": "Recommended Tools", "text": "Try the curated tools students love. We test them for reliability, clarity, and price so you can focus on the work.", "href": "https://your-affiliate-link.com", "cta": "See recommendations" }
+		]
+	},
+	{
+		"slug": "best-ai-note-taking-tools-for-students",
+		"title": "11 Best AI Note‑Taking Tools for Students (With Real Examples)",
+		"metaDescription": "Compare the best AI note‑taking apps for students: features, accuracy, pricing, and workflows to capture, summarize, and recall lecture content fast.",
+		"excerpt": "We tested popular AI note‑taking tools to see which ones actually help you keep up with lectures and study smarter. See workflows, pros/cons, and our student‑friendly picks.",
+		"date": "2026-03-28",
+		"readingTime": 13,
+		"tags": ["note taking", "summaries", "students"],
+		"toc": [
+			{ "id": "overview", "text": "Overview", "level": 2 },
+			{ "id": "comparisons", "text": "Comparisons", "level": 2 },
+			{ "id": "workflows", "text": "Workflows", "level": 2 },
+			{ "id": "picks", "text": "Best picks by use case", "level": 2 }
+		],
+		"recommended": [
+			{ "title": "Notion AI", "href": "https://notion.so", "note": "Great all‑rounder" }
+		],
+		"content": [
+			{ "type": "p", "text": "The best note‑taking tools combine capture, structure, and recall. We stress‑tested transcription accuracy, summary quality, organization features, and export options so you can set up a reliable note system for any class format." },
+			{ "type": "h2", "id": "overview", "text": "Overview" },
+			{ "type": "p", "text": "We focused on accuracy, ease of use, and export quality. Accuracy matters most in STEM lectures with formulas and symbols; in humanities, structure and tagging matter more. Export is critical for collaboration or turning notes into study guides." },
+			{ "type": "ul", "items": [
+				"Accuracy: does the tool handle accents, domain terms, and speed?",
+				"Summaries: structured outputs (headings, bullets, definitions)",
+				"Organization: tags, backlinks, and search quality",
+				"Export: clean markdown/PDF and sharing controls",
+				"Price: free tiers or student discounts"
+			] },
+			{ "type": "h2", "id": "comparisons", "text": "Comparisons" },
+			{ "type": "p", "text": "Here’s how the popular options compare. We include typical strengths, weak spots, and ideal users so you can match the tool to your study style." },
+			{ "type": "ul", "items": [
+				"Notion AI — strongest all‑rounder; excellent templates; good summaries; great for mixed coursework",
+				"Mem — fast capture and auto‑linking; great for daily notes and idea graphs",
+				"Obsidian (+ plugins) — local‑first, customizable, best for markdown power users",
+				"Tana AI — advanced structure and supertags; steep learning curve but powerful"
+			] },
+			{ "type": "p", "text": "If you’re deciding between Notion AI and Obsidian, ask: do I want a cloud workspace with templates (Notion) or a local knowledge base I fully control (Obsidian)? For quick capture and personal knowledge graphs, Mem and Tana stand out." },
+			{ "type": "h2", "id": "workflows", "text": "Workflows" },
+			{ "type": "p", "text": "Use this baseline workflow to get value from any app: Record lecture or upload audio; attach slides; highlight key passages; generate structured summaries; convert highlights to flashcards; schedule spaced repetition. The magic is in consistency." },
+			{ "type": "ul", "items": [
+				"Lecture → transcription → summary → flashcards → weekly review",
+				"Reading → highlights → definitions list → practice questions",
+				"Lab → steps captured → troubleshooting notes → checklist template"
+			] },
+			{ "type": "h2", "id": "picks", "text": "Best picks by use case" },
+			{ "type": "ul", "items": [
+				"Fast setup (all majors): Notion AI",
+				"Markdown + control (CS/humanities): Obsidian + plugins",
+				"Idea graph + speed (creatives): Mem",
+				"Complex structures (research projects): Tana AI"
+			] },
+			{ "type": "p", "text": "Once you’ve set up notes, connect them to your study plan and prompts. Use our prompt library to turn each week’s notes into active recall practice: 75 ChatGPT Study Prompts → /blog/chatgpt-study-prompts. For a broad overview of everything else in your stack, see the pillar guide: AI Tools for Students → /blog/ai-tools-for-students" },
+			{ "type": "cta", "title": "Student Discounts", "text": "Check verified education pricing for Notion and more.", "href": "https://your-affiliate-link.com", "cta": "See deals" }
+		]
+	},
+	{
+		"slug": "chatgpt-study-prompts",
+		"title": "75 ChatGPT Study Prompts for Faster Learning (By Subject)",
+		"metaDescription": "Use ChatGPT effectively for studying with 75 prompts covering reading, note‑making, practice questions, and exam prep—organized by subject.",
+		"excerpt": "A practical prompt library to learn faster with ChatGPT—ethically and with clarity. Use these to read actively, make notes, and practice recall.",
+		"date": "2026-03-28",
+		"readingTime": 14,
+		"tags": ["chatgpt", "prompts", "studying"],
+		"toc": [
+			{ "id": "how-to-use", "text": "How to use", "level": 2 },
+			{ "id": "by-subject", "text": "Prompts by subject", "level": 2 },
+			{ "id": "templates", "text": "Templates", "level": 2 },
+			{ "id": "ethics", "text": "Ethical use", "level": 2 }
+		],
+		"recommended": [
+			{ "title": "Perplexity", "href": "https://perplexity.ai", "note": "Research" }
+		],
+		"content": [
+			{ "type": "p", "text": "These prompts help you read actively, extract key points, and practice recall. The goal is not to let AI do your homework but to accelerate the parts of studying that benefit from better structure and immediate feedback. Always provide context and constraints so the model returns focused, checkable outputs." },
+			{ "type": "h2", "id": "how-to-use", "text": "How to use" },
+			{ "type": "p", "text": "Always provide context, source material, and constraints: paste a short passage or outline; specify the course level; and state the exact format you need. Good: 'Summarize sections 3.1–3.3 for a 1st‑year biology course into 5 bullets + 3 recall questions'." },
+			{ "type": "ul", "items": [
+				"Context: course level, topic, grading rubric (if any)",
+				"Source: paste a paragraph; attach a small excerpt; link when allowed",
+				"Constraints: bullet count, tone, avoid unsupported facts"
+			] },
+			{ "type": "h2", "id": "by-subject", "text": "Prompts by subject" },
+			{ "type": "ul", "items": [
+				"Biology: 'Explain the difference between oxidative and substrate‑level phosphorylation in 5 bullets; include one analogy and a misconception check.'",
+				"History: 'Turn this passage into a timeline with year → event → why it mattered (1 sentence each).'",
+				"Literature: 'Extract 5 themes from this chapter; quote one supporting line per theme (with page markers I provide).'",
+				"Math: 'Give a hint (not solution) for this problem; point out the first step and a common mistake.'",
+				"CS: 'Convert this algorithm description into pseudocode; annotate time/space complexity.'",
+				"Languages: 'Create 10 cloze deletions from this paragraph with answers at the end.'"
+			] },
+			{ "type": "h2", "id": "templates", "text": "Templates" },
+			{ "type": "ul", "items": [
+				"'Turn these notes into 10 spaced‑repetition flashcards (Q on front, A on back).'",
+				"'Make a 7‑day micro‑plan for this chapter: reading targets + 3 recall questions/day.'",
+				"'Generate 5 exam‑style practice questions (difficulty: easy→hard) with short answers.'",
+				"'Identify 3 likely misconceptions from this outline and suggest checks to avoid them.'"
+			] },
+			{ "type": "h2", "id": "ethics", "text": "Ethical use" },
+			{ "type": "p", "text": "Use AI to learn, not to misrepresent. Don’t submit AI‑generated work as your own. Cite where appropriate, verify facts, and keep your instructor’s policies in mind. When in doubt, ask for 'hints', 'outlines', or 'checks' rather than finished answers." },
+			{ "type": "p", "text": "Continue building your stack by pairing these prompts with a reliable note system and summarization flow. See the pillar: AI Tools for Students → /blog/ai-tools-for-students and our hands‑on review: Best AI Note‑Taking Tools → /blog/best-ai-note-taking-tools-for-students" },
+			{ "type": "cta", "title": "Prompt Pack", "text": "Download a printable set of 75 study prompts categorized by subject.", "href": "https://your-affiliate-link.com", "cta": "Get the pack" }
+		]
+	},
+	{
+		"slug": "ai-reading-comprehension-tools",
+		"title": "11 AI Tools to Improve Reading Comprehension for Students",
+		"metaDescription": "Struggling with dense textbooks? These AI reading tools help you extract key ideas, define terms, and retain more—great for beginners.",
+		"excerpt": "Make tough chapters readable: summarize sections, define key terms, and practice recall with beginner-friendly AI tools.",
+		"date": "2026-03-29",
+		"readingTime": 13,
+		"tags": ["reading", "summarization", "students"],
+		"toc": [
+			{ "id": "why-ai-helps", "text": "How AI Improves Reading", "level": 2 },
+			{ "id": "criteria", "text": "Criteria We Used", "level": 2 },
+			{ "id": "tools", "text": "The Tools", "level": 2 },
+			{ "id": "ethics", "text": "Ethical Use", "level": 2 },
+			{ "id": "workflow", "text": "Quick Study Workflow", "level": 2 }
+		],
+		"recommended": [
+			{ "title": "Perplexity", "href": "https://perplexity.ai", "note": "Research with citations" },
+			{ "title": "Notion AI", "href": "https://notion.so", "note": "Notes + summaries" }
+		],
+		"content": [
+			{ "type": "p", "text": "Reading tough chapters and academic PDFs can feel like trying to hike without a trail. Good AI reading tools act like a study guide—highlighting key ideas, defining terms, and turning sections into digestible notes so you actually understand the text." },
+			{ "type": "h2", "id": "why-ai-helps", "text": "How AI Improves Reading (Without Replacing It)" },
+			{ "type": "ul", "items": ["Clarifies vocabulary and jargon", "Summarizes long sections into bullets", "Generates questions for self‑testing", "Connects chapters to prior knowledge"] },
+			{ "type": "h2", "id": "criteria", "text": "Criteria We Used" },
+			{ "type": "ul", "items": ["Accuracy and citations", "Structured outputs", "Export quality", "Price/free tier"] },
+			{ "type": "h2", "id": "tools", "text": "The Tools (With When To Use Each)" },
+			{ "type": "p", "text": "Perplexity, Notion AI, ChatGPT with your course context, PDF AI annotators, Scholarcy, Readwise Reader, Obsidian + plugins, LiquidText. Use each for targeted questions on sections—not whole books at once." },
+			{ "type": "h2", "id": "ethics", "text": "Ethical Use: Learn, Don’t Outsource" },
+			{ "type": "p", "text": "Read actively first; write your own summary after using AI; never cite AI as a source. Follow course policy." },
+			{ "type": "h2", "id": "workflow", "text": "Quick Study Workflow" },
+			{ "type": "ul", "items": ["Skim headings", "Read and highlight", "Ask AI for bullets + key terms for that section", "Write your 2–3 sentence personal summary", "Make flashcards"] },
+			{ "type": "cta", "title": "Try Perplexity", "text": "Clarify readings with concise, cited summaries.", "href": "https://your-affiliate-link.com", "cta": "Try Perplexity" }
+		]
+	},
+	{
+		"slug": "ai-essay-outline-generators",
+		"title": "13 AI Essay Outline Generators for Clear Structure",
+		"metaDescription": "Struggling to start essays? These AI outline generators turn prompts into logical structures beginners can follow—ethically and clearly.",
+		"excerpt": "Turn blank pages into clear essay structures with beginner‑friendly AI outline generators and workflows.",
+		"date": "2026-03-29",
+		"readingTime": 14,
+		"tags": ["writing", "outlines", "students"],
+		"toc": [
+			{ "id": "why-outlines", "text": "Why Outlines Matter", "level": 2 },
+			{ "id": "criteria", "text": "Criteria We Used", "level": 2 },
+			{ "id": "tools", "text": "13 Tools Compared", "level": 2 },
+			{ "id": "workflow", "text": "20‑Minute Workflow", "level": 2 },
+			{ "id": "ethics", "text": "Ethical Use", "level": 2 }
+		],
+		"recommended": [
+			{ "title": "Notion AI", "href": "https://notion.so", "note": "Templates + outlines" }
+		],
+		"content": [
+			{ "type": "p", "text": "Most students get stuck at the start. AI outline generators help you move from prompt to structure quickly, so you can focus on reasoning and evidence." },
+			{ "type": "h2", "id": "why-outlines", "text": "Why Outlines Matter" },
+			{ "type": "ul", "items": ["Prevents rambling", "Clarifies thesis early", "Maps evidence to claims", "Makes drafting faster"] },
+			{ "type": "h2", "id": "criteria", "text": "Criteria We Used" },
+			{ "type": "ul", "items": ["Control over sections", "Evidence prompts", "Export quality", "Price"] },
+			{ "type": "h2", "id": "tools", "text": "13 Tools Compared" },
+			{ "type": "p", "text": "Notion AI, Perplexity, ChatGPT (+ custom prompts), Wordtune, Jasper, Rytr, Anyword, Grammarly, QuillBot, Edu-focused assistants, and more. Pair with notes and citations to avoid generic output." },
+			{ "type": "h2", "id": "workflow", "text": "A 20‑Minute Outline Workflow" },
+			{ "type": "ul", "items": ["Paste assignment + constraints", "Draft outline with AI", "Add counterarguments", "Attach sources", "Export and refine"] },
+			{ "type": "h2", "id": "ethics", "text": "Ethical Use" },
+			{ "type": "p", "text": "Treat AI as a structure helper. Your reasoning, your evidence, your words." },
+			{ "type": "cta", "title": "Notion AI Template", "text": "Kickstart essay outlines with an editable Notion template.", "href": "https://your-affiliate-link.com", "cta": "Use template" }
+		]
+	},
+	{
+		"slug": "ai-student-email-assistant",
+		"title": "Write Better Student Emails with AI (Polite, Clear, Professional)",
+		"metaDescription": "Use AI to draft respectful, concise student emails—subject lines, tone, and templates included. Ideal for beginners.",
+		"excerpt": "Polite, clear emails get faster replies. Use AI to structure, tone‑check, and proofread—without sounding robotic.",
+		"date": "2026-03-29",
+		"readingTime": 12,
+		"tags": ["communication", "email", "students"],
+		"toc": [
+			{ "id": "anatomy", "text": "Anatomy of a Good Student Email", "level": 2 },
+			{ "id": "templates", "text": "Templates You Can Reuse", "level": 2 },
+			{ "id": "tone", "text": "Tone Adjustments with AI", "level": 2 },
+			{ "id": "ethics", "text": "Privacy & Ethical Use", "level": 2 }
+		],
+		"recommended": [
+			{ "title": "Grammarly", "href": "https://grammarly.com", "note": "Clarity + tone" }
+		],
+		"content": [
+			{ "type": "p", "text": "Clear emails are a career skill. AI can help you structure, clarify, and proofread while keeping your voice polite and professional." },
+			{ "type": "h2", "id": "anatomy", "text": "Anatomy of a Good Student Email" },
+			{ "type": "ul", "items": ["Short subject (topic + course)", "Greeting + context", "Specific request", "Thanks + sign‑off"] },
+			{ "type": "h2", "id": "templates", "text": "Templates You Can Reuse" },
+			{ "type": "ul", "items": ["Professor office hours", "Extension request", "Advisor question", "TA clarifications", "Admin forms"] },
+			{ "type": "h2", "id": "tone", "text": "Tone Adjustments with AI" },
+			{ "type": "p", "text": "Ask AI: 'Rewrite more concise and polite. Keep meaning, no flowery language.'" },
+			{ "type": "h2", "id": "ethics", "text": "Privacy & Ethical Use" },
+			{ "type": "p", "text": "Avoid sensitive data. Always read before sending. Keep your voice; AI should polish, not impersonate." },
+			{ "type": "cta", "title": "Email Prompt Pack", "text": "Copy polite email prompts for common student cases.", "href": "https://your-affiliate-link.com", "cta": "Get prompts" }
+		]
+	},
+	{
+		"slug": "ai-time-blocking-study-plan",
+		"title": "Use AI for Time Blocking: Build a Weekly Study Plan",
+		"metaDescription": "Learn how to create a realistic, distraction‑resistant study schedule with AI time blocking for beginners.",
+		"excerpt": "Turn deadlines into a weekly plan you can follow. Use AI to block time, add buffers, and stay consistent.",
+		"date": "2026-03-29",
+		"readingTime": 12,
+		"tags": ["productivity", "planning", "students"],
+		"toc": [
+			{ "id": "benefits", "text": "Benefits of Time Blocking", "level": 2 },
+			{ "id": "inputs", "text": "Gather Your Inputs", "level": 2 },
+			{ "id": "draft", "text": "Draft with AI", "level": 2 },
+			{ "id": "review", "text": "Review & Adjust", "level": 2 }
+		],
+		"recommended": [
+			{ "title": "Notion AI", "href": "https://notion.so", "note": "Schedule + template" }
+		],
+		"content": [
+			{ "type": "p", "text": "Time blocking helps you make steady progress without burnout. AI can turn your course load and deadlines into a realistic weekly plan." },
+			{ "type": "h2", "id": "benefits", "text": "Benefits of Time Blocking" },
+			{ "type": "ul", "items": ["Reduces decision fatigue", "Creates focus windows", "Prevents last‑minute cramming"] },
+			{ "type": "h2", "id": "inputs", "text": "Gather Your Inputs" },
+			{ "type": "ul", "items": ["Course list + hours", "Deadlines + exam dates", "Commitments + commute", "Energy patterns"] },
+			{ "type": "h2", "id": "draft", "text": "Draft with AI" },
+			{ "type": "p", "text": "Prompt: 'Create a weekly study plan for 4 courses (A,B,C,D), with 2‑hour focus blocks, 15‑min breaks, and Sunday review. Add buffers before exams.'" },
+			{ "type": "h2", "id": "review", "text": "Review & Adjust" },
+			{ "type": "p", "text": "Keep it flexible. Adjust weekly, track what slips, and iterate." },
+			{ "type": "cta", "title": "Time‑Blocking Template", "text": "Use a ready Notion template to get started fast.", "href": "https://your-affiliate-link.com", "cta": "Use template" }
+		]
+	},
+	{
+		"slug": "ai-pdf-annotation-tools",
+		"title": "10 AI PDF Annotation Tools That Supercharge Study Notes",
+		"metaDescription": "Turn dense PDFs into clear notes with AI highlights, definitions, and export‑friendly summaries—great for textbooks and papers.",
+		"excerpt": "Highlight, ask questions, and export structured notes from PDFs with AI—then turn them into flashcards.",
+		"date": "2026-03-29",
+		"readingTime": 13,
+		"tags": ["pdf", "annotation", "summaries"],
+		"toc": [
+			{ "id": "criteria", "text": "Evaluation Criteria", "level": 2 },
+			{ "id": "tools", "text": "10 Tools Compared", "level": 2 },
+			{ "id": "workflow", "text": "Annotation → Flashcards", "level": 2 }
+		],
+		"recommended": [
+			{ "title": "UPDF AI", "href": "https://updf.com", "note": "PDF assistant" }
+		],
+		"content": [
+			{ "type": "p", "text": "PDFs are the backbone of many courses. AI can help you extract structure, define terms, and save clean notes." },
+			{ "type": "h2", "id": "criteria", "text": "Evaluation Criteria" },
+			{ "type": "ul", "items": ["Highlight quality", "Answering in context", "Export to notes", "Pricing"] },
+			{ "type": "h2", "id": "tools", "text": "10 Tools Compared" },
+			{ "type": "p", "text": "UPDF AI, Adobe AI Assistant, Scholarcy, LiquidText + AI, Notion AI, and more. Choose based on file sizes, privacy, and export format." },
+			{ "type": "h2", "id": "workflow", "text": "Annotation → Flashcards" },
+			{ "type": "ul", "items": ["Annotate key claims/terms", "Ask AI for bullets + definitions", "Export to notes", "Turn into flashcards"] },
+			{ "type": "cta", "title": "Try UPDF AI", "text": "Ask questions right inside your PDFs.", "href": "https://your-affiliate-link.com", "cta": "Try UPDF AI" }
+		]
+	}
+]
+
